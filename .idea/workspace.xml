@@ -3,20 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6d977b85-7c79-4b11-9d6a-05ac538875ba" name="Default Changelist" comment="7.12米表项目第二套首页、所有域名页、联系我们">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/contactus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/domain_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/domain_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/domain_sell.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/domain_sell.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/news_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/news_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/news_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/news_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/iconfont/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/iconfont/iconfont.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/iconfont/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/iconfont/iconfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/iconfont/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/iconfont/iconfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/iconfont/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/iconfont/iconfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/iconfont/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/iconfont/iconfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/iconfont/iconfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/iconfont/iconfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/sass/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/sass/common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
+            <state relative-caret-position="1890">
               <caret line="70" column="51" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="51" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -45,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/domain_sell.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
+            <state relative-caret-position="837">
               <caret line="31" column="81" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
               <folding>
                 <element signature="n#style#0;n#font#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -60,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/styles/sass/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8964">
-              <caret line="407" column="32" selection-start-line="407" selection-start-column="32" selection-end-line="407" selection-end-column="32" />
+            <state relative-caret-position="274">
+              <caret line="393" column="5" selection-start-line="393" selection-start-column="1" selection-end-line="393" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -69,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/all_domain.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
+            <state relative-caret-position="8019">
               <caret line="297" selection-start-line="297" selection-end-line="323" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -81,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/contactus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="2565">
               <caret line="95" column="54" selection-start-line="95" selection-start-column="44" selection-end-line="95" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -97,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="1317" selection-start-line="1317" selection-end-line="1323" selection-end-column="1" />
+            <state relative-caret-position="9099">
+              <caret line="337" column="4" selection-start-line="337" selection-start-column="1" selection-end-line="337" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -116,8 +104,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pd</find>
-      <find>cl-gr</find>
       <find>_box-l</find>
       <find>cont-domain_detail</find>
       <find>_box-l</find>
@@ -141,11 +127,13 @@
       <find>url</find>
       <find>fff</find>
       <find>img1</find>
-      <find>cont-domain_sell</find>
       <find>_box2-i</find>
       <find>_cont</find>
-      <find>_cont-list</find>
       <find>u-box</find>
+      <find>cont-domain_sell</find>
+      <find>_cont-list</find>
+      <find>lian</find>
+      <find>lia</find>
     </findStrings>
     <replaceStrings>
       <replace>$cl-blue</replace>
@@ -274,7 +262,8 @@
       <workItem from="1562813322429" duration="9021000" />
       <workItem from="1562833577352" duration="6512000" />
       <workItem from="1562891530099" duration="18023000" />
-      <workItem from="1563153673212" duration="20227000" />
+      <workItem from="1563153673212" duration="20981000" />
+      <workItem from="1563243854653" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="7.11项目初始化">
       <created>1562829479320</created>
@@ -301,12 +290,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53783000" />
+    <option name="totallyTimeSpent" value="54559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="0" width="1914" height="1040" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12899786" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12846482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -319,7 +308,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49947312" visible="true" weight="0.32194045" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49947312" weight="0.32194045" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
       <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32936078" />
@@ -327,6 +316,28 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12846482" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49947312" weight="0.32194045" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -429,33 +440,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/sass/common.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/all_domain.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="297" selection-start-line="297" selection-end-line="323" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="1317" selection-start-line="1317" selection-end-line="1323" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
+        <state relative-caret-position="1890">
           <caret line="70" column="51" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="51" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -466,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/domain_sell.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="837">
           <caret line="31" column="81" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
           <folding>
             <element signature="n#style#0;n#font#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -477,9 +464,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/all_domain.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8019">
+          <caret line="297" selection-start-line="297" selection-end-line="323" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/contactus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="2565">
           <caret line="95" column="54" selection-start-line="95" selection-start-column="44" selection-end-line="95" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -491,10 +488,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9099">
+          <caret line="337" column="4" selection-start-line="337" selection-start-column="1" selection-end-line="337" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/sass/common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8964">
-          <caret line="407" column="32" selection-start-line="407" selection-start-column="32" selection-end-line="407" selection-end-column="32" />
+        <state relative-caret-position="274">
+          <caret line="393" column="5" selection-start-line="393" selection-start-column="1" selection-end-line="393" selection-end-column="5" />
         </state>
       </provider>
     </entry>
