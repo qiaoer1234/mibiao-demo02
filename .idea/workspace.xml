@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d977b85-7c79-4b11-9d6a-05ac538875ba" name="Default Changelist" comment="7.12米表项目第二套首页、所有域名页、联系我们">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> 5f880bf5ede4e0b605fd51047fb725a20f742b0c
       <change beforePath="$PROJECT_DIR$/app/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/common.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/main.css" afterDir="false" />
     </list>
@@ -85,7 +88,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="9099">
+=======
+            <state relative-caret-position="274">
+>>>>>>> 5f880bf5ede4e0b605fd51047fb725a20f742b0c
               <caret line="337" column="4" selection-start-line="337" selection-start-column="1" selection-end-line="337" selection-end-column="4" />
             </state>
           </provider>
@@ -229,7 +236,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/软件/Git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -263,7 +270,10 @@
       <workItem from="1562833577352" duration="6512000" />
       <workItem from="1562891530099" duration="18023000" />
       <workItem from="1563153673212" duration="20981000" />
+<<<<<<< HEAD
       <workItem from="1563243854653" duration="22000" />
+=======
+>>>>>>> 5f880bf5ede4e0b605fd51047fb725a20f742b0c
     </task>
     <task id="LOCAL-00001" summary="7.11项目初始化">
       <created>1562829479320</created>
@@ -290,12 +300,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="54559000" />
+=======
+    <option name="totallyTimeSpent" value="54537000" />
+>>>>>>> 5f880bf5ede4e0b605fd51047fb725a20f742b0c
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1914" height="1040" extended-state="0" />
+    <frame x="1" y="0" width="1914" height="1040" extended-state="1" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12846482" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" weight="0.12846482" />
+>>>>>>> 5f880bf5ede4e0b605fd51047fb725a20f742b0c
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -440,6 +458,26 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/app/styles/sass/common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/all_domain.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="297" selection-start-line="297" selection-end-line="323" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 5f880bf5ede4e0b605fd51047fb725a20f742b0c
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1890">
@@ -490,11 +528,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="9099">
+=======
+        <state relative-caret-position="274">
+>>>>>>> 5f880bf5ede4e0b605fd51047fb725a20f742b0c
           <caret line="337" column="4" selection-start-line="337" selection-start-column="1" selection-end-line="337" selection-end-column="4" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/styles/sass/common.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -502,6 +545,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 5f880bf5ede4e0b605fd51047fb725a20f742b0c
     <entry file="file://$PROJECT_DIR$/app/styles/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
