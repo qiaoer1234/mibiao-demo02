@@ -343,7 +343,7 @@ body {
 
         .layui-form-label._1 {
           border-left: 0;
-	width: 59px;
+        	width: 59px;
         }
       }
 
@@ -352,7 +352,10 @@ body {
       }
 
       ._sub {
-        margin-right: 44px;
+        margin-right: 44px; 
+        width: 200px;
+        background-color:$cl-blue;
+        color: #fff;
       }
     }
   }

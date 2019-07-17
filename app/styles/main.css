@@ -297,6 +297,10 @@ body {
 
 .cont-domain_detail ._box-l ._box-l1 ._sub {
   margin-right: 44px;
+   margin-right: 44px; 
+        width: 200px;
+        background-color:#018ffe;
+        color: #fff;
 }
 
 .cont-domain_detail ._box-r {
