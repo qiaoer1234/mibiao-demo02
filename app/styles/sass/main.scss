@@ -321,7 +321,10 @@ body {
 
       // overrides
       .layui-form-pane .layui-form-label {
-        width: 50px;
+      width: 60px;
+      border: none;
+      background: none;
+      color: #333;
       }
 
       .layui-inline {
@@ -340,6 +343,7 @@ body {
 
         .layui-form-label._1 {
           border-left: 0;
+	width: 59px;
         }
       }
 

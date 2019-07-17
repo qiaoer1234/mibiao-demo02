@@ -157,10 +157,6 @@ body {
   color: #fff;
 }
 
-.cont-newslist ._box0 .news-item li:nth-of-type(2n) {
-  /*margin: 20px 5px;*/
-}
-
 .cont-newslist ._box0 .news-item li p.news-time {
   font-size: 12px;
   line-height: 50px;
@@ -271,7 +267,10 @@ body {
 }
 
 .cont-domain_detail ._box-l ._box-l1 .layui-form-pane .layui-form-label {
-  width: 50px;
+  width: 60px;
+  border: none;
+  background: none;
+  color: #333;
 }
 
 .cont-domain_detail ._box-l ._box-l1 .layui-inline {
@@ -289,6 +288,7 @@ body {
 
 .cont-domain_detail ._box-l ._box-l1 .layui-inline._1 .layui-form-label._1 {
   border-left: 0;
+  width: 59px;
 }
 
 .cont-domain_detail ._box-l ._box-l1 textarea {
